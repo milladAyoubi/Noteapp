@@ -57,7 +57,7 @@ const removeNotes =  (title) => {
        console.log("Note removed!");
    }
    else {
-       console.log("Note Does Not Exist!");
+       console.log("Note Does Not Exist!!");
    }
 
     saveNotes(findNote)
